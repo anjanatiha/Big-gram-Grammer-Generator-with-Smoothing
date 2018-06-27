@@ -1,0 +1,7 @@
+pip install re
+pip install os
+pip install operator
+pip install collections
+pip install pickle
+pip install matplotlib
+pip install numpy
