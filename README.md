@@ -1,3 +1,4 @@
+Description
 1. From the SnapshotBROWN.pos.all.txt file extracted all word types and their frequencies.
 2. Sorted the list of word types in decreasing order based on their frequency.
 Drew a chart showing the relationship between the rank in the ordered list and the frequency (Zipf's Law). (Do not stem but do ignore punctuation.)
