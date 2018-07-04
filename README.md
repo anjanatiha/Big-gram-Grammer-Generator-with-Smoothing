@@ -7,7 +7,7 @@ Drew a chart showing the relationship between the rank in the ordered list and t
 5. Performed add-one smoothing. 
 6. Showed the grammar before and after smoothing for the sentence "A similar resolution passed in the Senate".
 
-## Tools Requirement: Anaconda, Python 
+### Tools Requirement: Anaconda, Python 
 
 Current Version  : v1.0.0.3
 
